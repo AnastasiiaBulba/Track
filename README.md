@@ -17,11 +17,11 @@ A modern, responsive website for the Traffic Trap driving game, built with pure 
 ```
 Track/
 ├── index.html                 # Home page
-├── battle-log.html           # News page
-├── hq-contacts.html         # Contact page
-├── offroad-disclaimer.html  # Legal disclaimer
-├── jeep-privacy.html        # Privacy policy
-├── jeep-cookies.html        # Cookie policy
+├── contacts.html           # Contact page
+├── news.html              # News page
+├── disclaimer.html        # Legal disclaimer
+├── privacy.html           # Privacy policy
+├── cookies.html           # Cookie policy
 ├── css/
 │   ├── reset.css            # CSS reset
 │   ├── main.css             # Main styles and variables
@@ -41,6 +41,10 @@ Track/
 │   └── content.json         # All website content
 └── assets/
     └── favicon.ico          # Website favicon
+├── unique_partials/
+│   ├── header.html        # Header partial
+│   ├── footer.html        # Footer partial
+│   └── contact-info.html  # Contact info partial
 ```
 
 ## 🚀 Technologies Used

@@ -35,8 +35,8 @@ async function loadPageContent() {
 
 function getCurrentPage() {
   const path = window.location.pathname;
-  if (path.includes("battle-log.html")) return "news";
-  if (path.includes("hq-contacts.html")) return "contact";
+  if (path.includes("news.html")) return "news";
+  if (path.includes("contacts.html")) return "contact";
   return "home";
 }
 

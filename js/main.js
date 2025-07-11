@@ -22,10 +22,10 @@ document.addEventListener("DOMContentLoaded", async function () {
     currentYearElement.textContent = new Date().getFullYear();
   }
 
-  await loadPartial("header", "./partials/header.html");
-  await loadPartial("footer", "./partials/footer.html");
-  if (window.location.pathname.includes("hq-contacts.html")) {
-    await loadPartial("contact-info", "./partials/contact-info.html");
+  await loadPartial("header", "./unique_partials/header.html");
+  await loadPartial("footer", "./unique_partials/footer.html");
+  if (window.location.pathname.includes("contacts.html")) {
+    await loadPartial("contact-info", "./unique_partials/contact-info.html");
   }
 
   // Initialize all modules

@@ -6,7 +6,7 @@ export function loadPartials() {
 
 async function loadHeader() {
   try {
-    const response = await fetch("./partials/header.html");
+    const response = await fetch("./unique_partials/header.html");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -29,7 +29,7 @@ async function loadHeader() {
                         <p>We use cookies to enhance your gaming experience. By continuing to use this site, you consent to our use of cookies.</p>
                         <div class="cookie-buttons">
                             <button id="accept-cookies" class="btn-primary">Accept</button>
-                            <a href="./jeep-cookies.html" class="btn-secondary">Learn More</a>
+                            <a href="./cookies.html" class="btn-secondary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -44,8 +44,8 @@ async function loadHeader() {
                             <nav class="nav">
                                 <ul class="nav-list">
                                     <li class="nav-item"><a href="./" class="nav-link" id="nav-home">Home</a></li>
-                                    <li class="nav-item"><a href="./battle-log.html" class="nav-link" id="nav-news">News</a></li>
-                                    <li class="nav-item"><a href="./hq-contacts.html" class="nav-link" id="nav-contact">Contact</a></li>
+                                    <li class="nav-item"><a href="./news.html" class="nav-link" id="nav-news">News</a></li>
+                                    <li class="nav-item"><a href="./contacts.html" class="nav-link" id="nav-contact">Contact</a></li>
                                 </ul>
                             </nav>
                             <button class="mobile-menu-toggle" id="mobile-menu-toggle">
@@ -64,7 +64,7 @@ async function loadHeader() {
 
 async function loadFooter() {
   try {
-    const response = await fetch("./partials/footer.html");
+    const response = await fetch("./unique_partials/footer.html");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -93,9 +93,9 @@ async function loadFooter() {
                             <div class="footer-section">
                                 <h3 class="footer-title">Legal</h3>
                                 <ul class="footer-links">
-                                    <li><a href="./jeep-cookies.html" class="footer-link">Cookie Policy</a></li>
-                                    <li><a href="./jeep-privacy.html" class="footer-link">Privacy Policy</a></li>
-                                    <li><a href="./offroad-disclaimer.html" class="footer-link">Disclaimer</a></li>
+                                    <li><a href="./cookies.html" class="footer-link">Cookie Policy</a></li>
+                                    <li><a href="./privacy.html" class="footer-link">Privacy Policy</a></li>
+                                    <li><a href="./disclaimer.html" class="footer-link">Disclaimer</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -135,7 +135,7 @@ function setActiveNavigation() {
 
 function getCurrentPage() {
   const path = window.location.pathname;
-  if (path.includes("battle-log.html")) return "news";
-  if (path.includes("hq-contacts.html")) return "contact";
+  if (path.includes("news.html")) return "news";
+  if (path.includes("contacts.html")) return "contact";
   return "home";
 }

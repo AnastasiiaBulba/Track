@@ -118,21 +118,21 @@
     {
       "title": "New Weather System Released",
       "description": "Experience dynamic weather conditions that affect gameplay in real-time. Rain, snow, and fog now impact visibility and vehicle handling.",
-      "date": "December 15, 2024",
+      "date": "March 12, 2025",
       "fullContent": "We're excited to announce the release of our new dynamic weather system! This major update introduces realistic weather conditions that change throughout your gameplay session. Rain affects road grip and visibility, snow creates challenging driving conditions, and fog reduces visibility significantly. The weather system is fully integrated with our physics engine, so you'll need to adjust your driving style based on current conditions. New weather-specific missions have also been added to test your skills in various conditions.",
       "image": "assets/tracklevel1.jpg"
     },
     {
       "title": "Performance Optimization Update",
       "description": "Major performance improvements across all devices. Reduced loading times and smoother gameplay experience for all players.",
-      "date": "December 10, 2024",
+      "date": "April 8, 2025",
       "fullContent": "This update focuses on optimizing game performance across all devices and browsers. We've implemented several technical improvements including better memory management, optimized rendering pipeline, and reduced network overhead. Loading times have been reduced by up to 40%, and frame rates are now more consistent across different hardware configurations. Mobile users will notice significant improvements in responsiveness and battery life. The update also includes bug fixes for rare crash scenarios and improved error handling.",
       "image": "assets/tracklevel2.jpg"
     },
     {
       "title": "New Vehicle Classes Added",
       "description": "Introducing sports cars, trucks, and motorcycles with unique handling characteristics and special abilities.",
-      "date": "December 5, 2024",
+      "date": "May 3, 2025",
       "fullContent": "We've expanded our vehicle roster with three new vehicle classes! Sports cars offer high speed and agility but are more fragile, trucks provide durability and power but are slower, and motorcycles offer incredible maneuverability but require skilled driving. Each vehicle class has unique handling characteristics and special abilities that unlock as you progress. The new vehicles are available through the mission system, and we've added specific tracks designed to showcase each vehicle's strengths. This update also includes new customization options for all vehicle types.",
       "image": "assets/tracklevel3.jpg"
     }
@@ -141,21 +141,21 @@
     {
       "title": "Behind the Scenes: Track Design Process",
       "description": "Take a look at how we design and create the challenging tracks that players love to race on.",
-      "date": "December 12, 2024",
+      "date": "March 12, 2025",
       "fullContent": "Creating engaging tracks for Traffic Trap involves a complex process that combines artistic vision with technical precision. Our design team starts with concept sketches and mood boards to establish the visual style and atmosphere of each track. We then create detailed 3D models and implement realistic physics interactions. Each track goes through multiple iterations where we test gameplay flow, difficulty balance, and visual appeal. The mountain pass track took over three months to perfect, with countless adjustments to corner angles, elevation changes, and obstacle placement. We also work closely with our physics team to ensure that each track feels unique while maintaining consistent gameplay mechanics.",
       "image": "assets/tracklevel4.jpg"
     },
     {
       "title": "Community Spotlight: Top Players",
       "description": "Meet some of the most skilled players in our community and learn their strategies for mastering Traffic Trap.",
-      "date": "December 8, 2024",
+      "date": "April 8, 2025",
       "fullContent": "This month we're highlighting three exceptional players who have consistently topped our leaderboards. SpeedDemon_92 has mastered the art of perfect cornering, achieving record times on technical tracks. DriftQueen has revolutionized how players approach drifting mechanics, creating tutorials that have helped thousands of players improve their skills. And MountainMaster has set unbeatable records on our most challenging mountain tracks. We interviewed each player about their strategies, favorite tracks, and tips for new players. Their insights have been invaluable in helping us understand what makes our game so engaging and how we can continue to improve the player experience.",
       "image": "assets/tracklevel5.jpg"
     },
     {
       "title": "Development Update: Future Features",
       "description": "Get a sneak peek at upcoming features and improvements planned for Traffic Trap in the coming months.",
-      "date": "December 3, 2024",
+      "date": "May 3, 2025",
       "fullContent": "We're excited to share our development roadmap for the next six months! Q1 2025 will bring a comprehensive multiplayer system allowing players to race against friends in real-time. We're also working on a tournament system with seasonal competitions and prizes. Q2 will introduce a story mode with narrative-driven missions and character progression. The story will follow a rookie driver's journey to becoming a racing legend. We're also planning major visual upgrades including improved lighting systems, particle effects, and more detailed vehicle models. Community feedback has been crucial in shaping these features, and we can't wait to see how players respond to these new additions.",
       "image": "assets/tracklevel6.jpg"
     }

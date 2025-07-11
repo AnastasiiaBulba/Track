@@ -76,7 +76,7 @@
   background: url("../assets/TrafficTrap2.jpg") center center/cover no-repeat;
   filter: blur(16px);
   z-index: 0;
-  opacity: 0.9;
+  opacity: 0.95;
   /* Маска для розмитих країв */
   mask-image: radial-gradient(
     circle at 50% 50%,
