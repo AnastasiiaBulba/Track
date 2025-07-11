@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "title": "Master the Roads",
+    "description": "Navigate through challenging traffic scenarios and become the ultimate road warrior in this thrilling driving adventure. Experience realistic physics, dynamic weather conditions, and intense competition as you race through diverse environments.",
+    "buttonText": "Play Now"
+  },
+  "features": [
+    {
+      "icon": "🚗",
+      "title": "Realistic Physics",
+      "description": "Experience authentic vehicle handling with advanced physics engine that simulates real-world driving conditions and vehicle behavior."
+    },
+    {
+      "icon": "🌦️",
+      "title": "Dynamic Weather",
+      "description": "Adapt to changing weather conditions that affect visibility, road grip, and overall driving experience."
+    },
+    {
+      "icon": "🏁",
+      "title": "Multiple Tracks",
+      "description": "Explore diverse environments from urban streets to off-road adventures with unique challenges and obstacles."
+    },
+    {
+      "icon": "⚡",
+      "title": "Power-ups & Boosters",
+      "description": "Collect special items and power-ups to gain temporary advantages and overcome difficult situations."
+    },
+    {
+      "icon": "🎯",
+      "title": "Mission System",
+      "description": "Complete various missions and objectives to unlock new vehicles, tracks, and special features."
+    },
+    {
+      "icon": "🏆",
+      "title": "Leaderboards",
+      "description": "Compete with players worldwide and climb the global leaderboards to prove your driving skills."
+    }
+  ],
+  "howToPlay": [
+    {
+      "title": "Basic Controls",
+      "description": "Master the fundamental driving controls to navigate through traffic and obstacles.",
+      "steps": [
+        "Use arrow keys or WASD to control your vehicle",
+        "Press Spacebar for emergency brake",
+        "Hold Shift for boost acceleration",
+        "Use C to change camera view"
+      ]
+    },
+    {
+      "title": "Game Objectives",
+      "description": "Understand your goals and how to achieve the highest scores in each level.",
+      "steps": [
+        "Complete missions within time limits",
+        "Avoid traffic violations and collisions",
+        "Collect bonus items for extra points",
+        "Maintain high speed while staying safe"
+      ]
+    },
+    {
+      "title": "Advanced Techniques",
+      "description": "Learn advanced driving techniques to master difficult tracks and challenges.",
+      "steps": [
+        "Master drifting around sharp corners",
+        "Use power-ups strategically",
+        "Plan your route to avoid traffic",
+        "Practice timing for perfect runs"
+      ]
+    }
+  ],
+  "track": {
+    "features": [
+      {
+        "icon": "🌆",
+        "text": "Urban Streets - Navigate through busy city traffic with realistic road conditions"
+      },
+      {
+        "icon": "🏔️",
+        "text": "Mountain Passes - Challenge yourself on winding mountain roads with elevation changes"
+      },
+      {
+        "icon": "🏜️",
+        "text": "Desert Trails - Experience off-road adventures in challenging desert environments"
+      },
+      {
+        "icon": "🌊",
+        "text": "Coastal Highways - Drive along scenic coastal routes with ocean views"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "name": "Alex Johnson",
+      "text": "Amazing game! The physics are incredibly realistic and the weather effects add a whole new level of challenge. I've been playing for hours and still discovering new strategies."
+    },
+    {
+      "name": "Sarah Chen",
+      "text": "Perfect for quick gaming sessions. The controls are intuitive and the graphics are smooth. Love how each track feels unique with different challenges."
+    },
+    {
+      "name": "Mike Rodriguez",
+      "text": "Best driving game I've played online. The mission system keeps me engaged and the leaderboards make it competitive. Highly recommend!"
+    },
+    {
+      "name": "Emma Wilson",
+      "text": "Great game for both casual and hardcore players. The difficulty progression is well-balanced and the power-ups add fun strategic elements."
+    },
+    {
+      "name": "David Kim",
+      "text": "Incredible attention to detail in the vehicle handling. The different weather conditions really change how you need to approach each race."
+    },
+    {
+      "name": "Lisa Thompson",
+      "text": "Addictive gameplay with smooth performance. The track variety keeps things fresh and the community features are excellent."
+    }
+  ],
+  "gameUpdates": [
+    {
+      "title": "New Weather System Released",
+      "description": "Experience dynamic weather conditions that affect gameplay in real-time. Rain, snow, and fog now impact visibility and vehicle handling.",
+      "date": "December 15, 2024",
+      "fullContent": "We're excited to announce the release of our new dynamic weather system! This major update introduces realistic weather conditions that change throughout your gameplay session. Rain affects road grip and visibility, snow creates challenging driving conditions, and fog reduces visibility significantly. The weather system is fully integrated with our physics engine, so you'll need to adjust your driving style based on current conditions. New weather-specific missions have also been added to test your skills in various conditions.",
+      "image": "assets/tracklevel1.jpg"
+    },
+    {
+      "title": "Performance Optimization Update",
+      "description": "Major performance improvements across all devices. Reduced loading times and smoother gameplay experience for all players.",
+      "date": "December 10, 2024",
+      "fullContent": "This update focuses on optimizing game performance across all devices and browsers. We've implemented several technical improvements including better memory management, optimized rendering pipeline, and reduced network overhead. Loading times have been reduced by up to 40%, and frame rates are now more consistent across different hardware configurations. Mobile users will notice significant improvements in responsiveness and battery life. The update also includes bug fixes for rare crash scenarios and improved error handling.",
+      "image": "assets/tracklevel2.jpg"
+    },
+    {
+      "title": "New Vehicle Classes Added",
+      "description": "Introducing sports cars, trucks, and motorcycles with unique handling characteristics and special abilities.",
+      "date": "December 5, 2024",
+      "fullContent": "We've expanded our vehicle roster with three new vehicle classes! Sports cars offer high speed and agility but are more fragile, trucks provide durability and power but are slower, and motorcycles offer incredible maneuverability but require skilled driving. Each vehicle class has unique handling characteristics and special abilities that unlock as you progress. The new vehicles are available through the mission system, and we've added specific tracks designed to showcase each vehicle's strengths. This update also includes new customization options for all vehicle types.",
+      "image": "assets/tracklevel3.jpg"
+    }
+  ],
+  "trailDiaries": [
+    {
+      "title": "Behind the Scenes: Track Design Process",
+      "description": "Take a look at how we design and create the challenging tracks that players love to race on.",
+      "date": "December 12, 2024",
+      "fullContent": "Creating engaging tracks for Traffic Trap involves a complex process that combines artistic vision with technical precision. Our design team starts with concept sketches and mood boards to establish the visual style and atmosphere of each track. We then create detailed 3D models and implement realistic physics interactions. Each track goes through multiple iterations where we test gameplay flow, difficulty balance, and visual appeal. The mountain pass track took over three months to perfect, with countless adjustments to corner angles, elevation changes, and obstacle placement. We also work closely with our physics team to ensure that each track feels unique while maintaining consistent gameplay mechanics.",
+      "image": "assets/tracklevel4.jpg"
+    },
+    {
+      "title": "Community Spotlight: Top Players",
+      "description": "Meet some of the most skilled players in our community and learn their strategies for mastering Traffic Trap.",
+      "date": "December 8, 2024",
+      "fullContent": "This month we're highlighting three exceptional players who have consistently topped our leaderboards. SpeedDemon_92 has mastered the art of perfect cornering, achieving record times on technical tracks. DriftQueen has revolutionized how players approach drifting mechanics, creating tutorials that have helped thousands of players improve their skills. And MountainMaster has set unbeatable records on our most challenging mountain tracks. We interviewed each player about their strategies, favorite tracks, and tips for new players. Their insights have been invaluable in helping us understand what makes our game so engaging and how we can continue to improve the player experience.",
+      "image": "assets/tracklevel5.jpg"
+    },
+    {
+      "title": "Development Update: Future Features",
+      "description": "Get a sneak peek at upcoming features and improvements planned for Traffic Trap in the coming months.",
+      "date": "December 3, 2024",
+      "fullContent": "We're excited to share our development roadmap for the next six months! Q1 2025 will bring a comprehensive multiplayer system allowing players to race against friends in real-time. We're also working on a tournament system with seasonal competitions and prizes. Q2 will introduce a story mode with narrative-driven missions and character progression. The story will follow a rookie driver's journey to becoming a racing legend. We're also planning major visual upgrades including improved lighting systems, particle effects, and more detailed vehicle models. Community feedback has been crucial in shaping these features, and we can't wait to see how players respond to these new additions.",
+      "image": "assets/tracklevel6.jpg"
+    }
+  ],
+  "contact": {
+    "email": "contact@traffictrap.com",
+    "phone": "+61 2 9876 5432",
+    "address": "123 Game Street, Sydney NSW 2000, Australia"
+  }
+}
