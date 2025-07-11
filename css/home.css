@@ -75,7 +75,7 @@
   background: url("../assets/TrafficTrap2.jpg") center center/cover no-repeat;
   filter: blur(16px);
   z-index: 0;
-  opacity: 0.7;
+  opacity: 0.9;
   /* Маска для розмитих країв */
   mask-image: radial-gradient(
     circle at 50% 50%,
@@ -210,10 +210,21 @@
 }
 
 .how-to-play-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  display: flex;
+  flex-direction: column;
   gap: var(--spacing-xl);
-  margin-top: var(--spacing-xl);
+}
+
+@media (min-width: 1280px) {
+  .how-to-play-grid {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+  }
+  .how-to-item {
+    flex: 1 1 0;
+    max-width: 32%;
+  }
 }
 
 .how-to-item {
